@@ -4,8 +4,6 @@ It's not so easy to build module from the Microsoft sources. You need to change 
 Some description available in Russian at the page http://www.bizkit.ru/2018/11/12/5737/ 
 
 To build module you need to do some changes in files:
-
-To build module you need to do some changes in files:
 1. Create in Microsoft Azure IoT Hub new Continers Registry. Get username and password to push compiled module. 
 2. Create file with name ".env" filled with created Container Registry authorization data:   
 	CONTAINER_REGISTRY_USERNAME_docker=
