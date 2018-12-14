@@ -9,4 +9,4 @@ To build module you need to do some changes in files:
 	CONTAINER_REGISTRY_USERNAME_docker=
 	CONTAINER_REGISTRY_PASSWORD_docker=
 3. Change the property "repository" in the file module.json for your repository URI. Example: 
-	"repository": "warlibregistry.azurecr.io/iot-edge-engine-simulator"
+	"repository": "warlibregistry.azurecr.io/iotedge-simulated-temperature-sensor"
